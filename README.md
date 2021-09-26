@@ -1,10 +1,10 @@
 ### Bem vindo(a) ao meu perfil! 👋
 <p style="text-align: justify;">
-Olá, tudo bem? me chamo Jerbeson Vinycius e atualmente me encontro no último ano do técnico em informática, sou amante de tecnologia e desenvolvimento web, gosto de criar soluções e programar, principalmente no lado servidor <strong>(Backend)</strong>.
+Olá, tudo bem? Me chamo Jerbeson Vinycius e atualmente me encontro no último ano do técnico em informática, sou amante de tecnologia e desenvolvimento web, gosto de criar soluções e programar, principalmente no lado servidor <strong>(Backend)</strong>.
 </p>
 
-📚 Estudando FastAPI
-
+🚀 Aprimorando conhecimentos - Flask
+📚 Estudando ORM/SQLAlchemy com conexão e funções assíncronas 
 
 ### Contatos 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jerbeson-vinycius-9a6803217/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](jerbesonvinycius@gmail.com) 
